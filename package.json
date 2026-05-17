@@ -1,0 +1,9 @@
+{
+  "name": "qianniu-chat-extract",
+  "version": "1.0.0",
+  "description": "千牛聊天记录提取脚本",
+  "dependencies": {
+    "puppeteer-core": "^22.0.0",
+    "exceljs": "^4.4.0"
+  }
+}
