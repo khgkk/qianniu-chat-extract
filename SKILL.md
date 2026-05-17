@@ -1,5 +1,6 @@
 ---
 name: 千牛聊天记录获取
+version: 1.0.0
 description: 淘宝千牛客服聊天记录提取。从千牛平台提取指定日期的客服聊天记录，逐条导出为Excel文件到桌面。触发词：千牛聊天、提取千牛记录、导出千牛聊天、千牛聊天Excel。
 agent_created: true
 ---
